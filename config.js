@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6285363439190'] 
+global.owner = ['6281946495315'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'lucky Official'
-global.numberowner = '6285363439190'
+global.nameowner = 'rafkangclmek Official'
+global.numberowner = '6281946495315'
 global.instagram = 'https://instagram.com/hyzer_stfu'
 global.github = 'https://github.com/Hyzerr'
-global.dana = '081333254382'
-global.pulsa = '081333254382'
-global.gopay = '087666666666'
+global.dana = '081946495315'
+global.pulsa = '081946495315'
+global.gopay = '081946495315'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'lucky Bot'
+global.namebot = 'raf Bot'
 global.gc = 'bit.ly/AnyaBot-Group'
 global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'lucky ʙᴏᴛ'
 global.watermark = wm
-global.wm2 = '                     「 lucky あ⁩ 」'
-global.wm3 = 'lucky'
+global.wm2 = '                     「 raf あ⁩ 」'
+global.wm3 = 'raf'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
