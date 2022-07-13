@@ -4,18 +4,18 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'rafkangclmek Official'
+global.nameowner = 'Asyraf 6Youu'
 global.numberowner = '6281946495315'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '081946495315'
-global.pulsa = '081946495315'
+global.instagram = 'https://instagram.com/asyrafsixyouu'
+global.github = 'https://github.com/Rafbotzbaru'
+global.dana = '085646606905'
+global.pulsa = '085646606905'
 global.gopay = '081946495315'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'raf Bot'
-global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Raf BOTZ -7'
+global.gc = 'https://bit.ly/3ax9GjJ'
+global.web = 'https://bit.ly/3c0WJz9' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,7 +23,7 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'lucky ʙᴏᴛ'
+global.wm = 'Raf BOTZ -1'
 global.watermark = wm
 global.wm2 = '                     「 raf あ⁩ 」'
 global.wm3 = 'raf'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© Asyraf 6Youu'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
